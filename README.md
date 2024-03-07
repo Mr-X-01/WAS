@@ -6,7 +6,9 @@
 1) Начнем с установки инструмента. Открываем терминал и выполняем следующие команды:
 
 $ pkg update && pkg upgrade -y
+
 $ pkg install sipcalc nmap wget
+
 $ git clone https://github.com/Mr-X-01/WAS && cd WAS && chmod u+x WIFI.sh
 
 2) Отлично, инструмент установлен, осталось запустить следующей командой:
