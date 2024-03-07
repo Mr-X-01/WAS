@@ -7,10 +7,10 @@
 
 $ pkg update && pkg upgrade -y
 $ pkg install sipcalc nmap wget
-$ wget -O HPV-Hack.sh https://goo.su/a3CnU && chmod u+x HPV-Hack.sh
+$ git clone https://github.com/Mr-X-01/WAS && cd WAS && chmod u+x WIFI.sh
 
 2) Отлично, инструмент установлен, осталось запустить следующей командой:
 
-$ bash HPV-Hack.sh
+$ bash WIFI.sh
 
 😈 Как только появится сообщение "Pwned! Now you can surf the Internet!", это означает, что теперь Вы свободно можете пользоваться интернетом без каких-либо ограничений или проблем!
